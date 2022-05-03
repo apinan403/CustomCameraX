@@ -4,9 +4,13 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/drawable-v24/ic_back.xml" value="0.37864583333333335" />
-        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/layout/activity_camera.xml" value="0.33" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/drawable-v24/ic_camera_shutter.xml" value="0.1985" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1985" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1985" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/layout/activity_camera.xml" value="0.325" />
         <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/layout/activity_camera2.xml" value="0.3625" />
-        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/layout/test.xml" value="0.3484375" />
         <entry key="..\:/Users/SODADAM/Desktop/TraineeWork/CustomCameraX/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.37864583333333335" />
       </map>
     </option>
